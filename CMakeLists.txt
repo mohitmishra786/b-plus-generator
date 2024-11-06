@@ -11,6 +11,7 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 # Define core library sources
 set(CORE_SOURCES
     src/core/tree.c
+    src/core/utils.c
 )
 
 # Create core library

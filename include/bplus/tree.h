@@ -1,9 +1,7 @@
+// include/bplus/tree.h
 #ifndef BPLUS_TREE_H
 #define BPLUS_TREE_H
-
 #include <stdbool.h>
-
-// #define ORDER 4  // Order of B+ tree
 
 typedef struct BPlusNode {
     int *keys;
@@ -17,6 +15,10 @@ typedef struct {
     BPlusNode *root;
     int order;
 } BPlusTree;
+
+// Node operations
+BPlusNode* create_node(int order, bool is_leaf);
+void destroy_node(BPlusNode* node);
 
 // Tree operations
 BPlusTree* bplus_tree_create(int order);
