@@ -1,2 +1,0 @@
-/usr/bin/ar qc libbplus_core.a CMakeFiles/bplus_core.dir/src/core/tree.c.o CMakeFiles/bplus_core.dir/src/core/utils.c.o
-/usr/bin/ranlib libbplus_core.a

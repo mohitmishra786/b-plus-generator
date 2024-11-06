@@ -1,5 +1,0 @@
-/home/chessman/Desktop/Projects/Github/b-plus-generator/build/CMakeFiles/bplus_core.dir
-/home/chessman/Desktop/Projects/Github/b-plus-generator/build/CMakeFiles/b-plus-tree.dir
-/home/chessman/Desktop/Projects/Github/b-plus-generator/build/CMakeFiles/run_tests.dir
-/home/chessman/Desktop/Projects/Github/b-plus-generator/build/CMakeFiles/edit_cache.dir
-/home/chessman/Desktop/Projects/Github/b-plus-generator/build/CMakeFiles/rebuild_cache.dir

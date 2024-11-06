@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/run_tests.dir/tests/unit/test_tree.c.o -o run_tests  libbplus_core.a 

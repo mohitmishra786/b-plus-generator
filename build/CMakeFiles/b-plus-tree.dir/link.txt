@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/b-plus-tree.dir/src/cli/main.c.o CMakeFiles/b-plus-tree.dir/src/cli/interface.c.o -o b-plus-tree  libbplus_core.a 
